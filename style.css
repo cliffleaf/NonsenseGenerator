@@ -1,0 +1,66 @@
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: #F5EEDC;
+}
+
+.intro-div {
+    margin-top: 50px;
+}
+
+.intro-div h2 {
+
+}
+
+.intro-div p {
+    display: inline-block;
+    background-color: #F5EEDC;
+    margin: auto;
+}
+
+.theme-img {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    float: right;
+    position: relative;
+    right: 17%;
+    bottom: 50px;
+}
+
+.define-div {
+    margin-top: 50px;
+}
+
+#content-label {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.define-div input {
+    display: inline-block;
+    margin-right: 10%;
+}
+
+#error-msg {
+    display: block;
+    margin-top: 20px;
+    height: 20px;
+    width: 43%;
+    color: #97BFB4;
+    font-size: 14px;
+    text-align: center;
+}
+
+textarea {
+    width: 941px;
+    height: 241px;
+    display: block;
+    font-size: 17px;
+}
+
+.btn {
+    display: block;
+    margin-top: 20px;
+}
